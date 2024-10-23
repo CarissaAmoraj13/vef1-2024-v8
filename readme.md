@@ -1,6 +1,7 @@
 # Vefforritun 1, 2024: Verkefni 8, JS #1
 
 - [Vefforritun 1, 2024, fyrirlestur 9.4: Verkefni 8](https://www.youtube.com/watch?v=2Sfcm0KfSaM)
+- [Vefforritun 1, 2024, fyrirlestur 10.2: Meira um verkefni 8 (24:35)](https://www.youtube.com/watch?v=LBEvRBbXnmM)
 
 ## Markmið
 
